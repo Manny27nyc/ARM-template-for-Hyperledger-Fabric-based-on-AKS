@@ -4,7 +4,7 @@
   "description": "Fabric NodeJS Application",
   "main": "",
   "dependencies": {
-    "fabric-ca-client": "^1.4.4",
+    "fabric-ca-client": "^2.2.11",
     "fabric-network": "^1.4.4"
   },
   "devDependencies": {},
