@@ -5,7 +5,7 @@
   "main": "",
   "dependencies": {
     "fabric-ca-client": "^1.4.4",
-    "fabric-network": "^1.4.4"
+    "fabric-network": "^2.1.0"
   },
   "devDependencies": {},
   "scripts": {
